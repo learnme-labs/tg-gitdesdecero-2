@@ -117,3 +117,7 @@ dist
 # storage/dump/*
 # storage/log/*
 # storage/tmp/*
+
+# Ignore dump files
+*.dump
+*.swap
